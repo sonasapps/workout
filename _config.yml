@@ -34,8 +34,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : For food lovers
-    description                           : Professionals and new cooks alike can benefit from tracking food creations.
+  - title                                 : Sonas
+    description                           : An Irish word meaning happiness, joy, or well-being
     fontawesome_icon_name                 : heart
     
   - title                                 : iPhone Exclusive
@@ -50,16 +50,16 @@ features                                  :
     description                           : Built for ease of use and simple navigation.
     fontawesome_icon_name                 : thumbs-up
 
-  - title                                 : Unlimited Entries
-    description                           : Create an ulimited amount of food entries, for any type.
-    fontawesome_icon_name                 : utensils
+  - title                                 : Stats
+    description                           : View and compare your workout types to last month or last year
+    fontawesome_icon_name                 : chart-bar
   
   - title                                 : Favorites View
-    description                           : Not all meals are created equal -- easily find your favorites.
+    description                           : Easily find your favorite posts.
     fontawesome_icon_name                 : star
 
   - title                                 : No Ads
-    description                           : Enjoy creating and browsing your entries without disruptive ads.
+    description                           : Enjoy creating and browsing your posts without disruptive ads.
     fontawesome_icon_name                 : ad
 
   - title                                 : No Subscription
@@ -89,7 +89,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#5FD9F0"
+link_color                                : "#65AE93"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -98,7 +98,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#fb7246"
+feature_icons_foreground_color            : "#65AE93"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
