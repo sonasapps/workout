@@ -9,7 +9,7 @@ Be sure to check for updates as Sonas Workout Journal is updated regularly!
 
 <br>
 ### `Latest Release`
-# **Version 1.5.1**
+# **Version 1.5.2**
 • In-App Dark Mode<br>
 • Improved post management<br>
 • Improved first user experience<br>
